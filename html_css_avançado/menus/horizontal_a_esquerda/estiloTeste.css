@@ -1,0 +1,17 @@
+div{
+    margin: 28px;
+    border-style: solid;
+    border-color: white;
+    border-color: red;
+    border-width: 17px;;
+    padding: 20px;
+width: 700px;
+background-color: greenyellow;
+/* outline-style: dotted; */
+outline-color: hotpink;
+outline-width: 10px;
+/* outline-offset: 15px; */
+}
+p{
+    text-align: justify;
+}
