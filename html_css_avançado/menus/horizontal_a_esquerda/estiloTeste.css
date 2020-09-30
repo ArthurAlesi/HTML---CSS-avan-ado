@@ -1,8 +1,7 @@
 div{
+    color:rgb(255, 0, 255);
     margin: 28px;
     border-style: solid;
-    border-color: white;
-    border-color: red;
     border-width: 17px;;
     padding: 20px;
 width: 700px;
@@ -14,4 +13,16 @@ outline-width: 10px;
 }
 p{
     text-align: justify;
+}
+
+p.upper{
+    text-transform: uppercase;
+}
+
+p.lower{
+    text-transform: lowercase;
+}
+
+p.cap{
+    text-transform: capitalize;
 }
