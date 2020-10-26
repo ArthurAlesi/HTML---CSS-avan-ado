@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(175, 255, 175);
+}
+
+.dropdown {}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: pink;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: blue;
+}
+
+div {
+    height: 100px;
+    width: 300px;
+    background-color: tomato;
+}
+
+p {
+    display: none;
+    background-color: yellow;
+}
+
+div:hover+p {
+    display: block
+}

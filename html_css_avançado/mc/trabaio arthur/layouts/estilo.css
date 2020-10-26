@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(186, 247, 247);
+    background-color: lightseagreen;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: tomato;
+    height: 70px;
+}
+
+div {
+    background-color: rgb(255, 202, 255);
+    width: 900px;
+    margin: auto;
+    height: 700px;
+}
+
+footer {
+    background-color: gray;
+    height: 200px;
+}
+
+section {
+    position: relative;
+    float: left;
+    height: 100%;
+}
+
+#sect1 {
+    width: 40%;
+    background-color: lime;
+    text-align: center;
+}
+
+#sect2 {
+    width: 60%;
+    background-color: maroon;
+    padding: 0;
+}
+
+.perfil {
+    margin-top: 50px;
+    height: 250px;
+    width: 200px;
+    top: 50px;
+}
+
+button {
+    margin-top: 30px;
+}
+
+input {
+    margin-top: 50px;
+    height: 35px;
+    margin-left: 20px;
+    width: 81%;
+    display: inline-block;
+    position: absolute;
+    border-width: 0px;
+    border-radius: 3px;
+}
+
+label::first-letter {
+    background-color: red;
+}
+
+label {
+    background-color: mediumaquamarine;
+    height: 27px;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 16px;
+    padding: 4px;
+    position: relative;
+    border: none;
+    top: 34px;
+}

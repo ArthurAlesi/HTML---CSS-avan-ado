@@ -1,0 +1,40 @@
+body {
+    background-image: url(bg.jpg);
+    margin: 0px;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(226, 226, 226);
+    font-size: 60px;
+}
+
+#caixaLogin {
+    background-color: rgb(51, 51, 51);
+    width: 500px;
+    height: 460px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+input {
+    height: 40px;
+    width: 300px;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 30px;
+}
